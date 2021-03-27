@@ -1,4 +1,4 @@
-# Hi 👋, I’m Abdelkarim Nakkahi.</br>
+# Hi 👋, I’m [Abdelkarim Nakkahi](http://linkedin.com/in/abdelkarimnakkahi).</br>
 I'm front end developer, focusing on building beautiful interfaces.</br>
 👀 I’m interested in ...</br>
 🌱 I’m currently learning React.js</br>
