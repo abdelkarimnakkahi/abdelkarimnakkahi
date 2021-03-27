@@ -1,5 +1,6 @@
 # Hi 👋, I’m [Abdelkarim Nakkahi](http://linkedin.com/in/abdelkarimnakkahi).</br>
 I'm front end developer, focusing on building beautiful interfaces.</br>
+## About me
 👀 I’m interested in ...</br>
 🌱 I’m currently learning React.js</br>
 💞️ I’m looking to collaborate on ...</br>
