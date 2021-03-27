@@ -1,6 +1,6 @@
 # Hi 👋, I’m [Abdelkarim Nakkahi](http://linkedin.com/in/abdelkarimnakkahi).</br>
 I'm front end developer, focusing on building beautiful interfaces.</br>
-👀 My skill set: HTML, CSS and JavaScript</br>
+:computer: My skill set: HTML, CSS and JavaScript</br>
 🌱 I’m currently learning React.js</br>
 💞️ I'm currently looking for opportunities as a junior front end developer.</br>
 ## 📫 How to reach me?
