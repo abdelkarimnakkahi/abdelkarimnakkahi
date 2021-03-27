@@ -4,6 +4,7 @@ I'm front end developer, focusing on building beautiful interfaces.</br>
 🌱 I’m currently learning React.js</br>
 💞️ I'm currently looking for opportunities as a junior front end developer.</br>
 ## 📫 How to reach me?
+* :globe_with_meridians: [Nakkahi Studio](https://www.nakkahistudio.com)
 * [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/abdelkarimnakkahi)
 * [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/abdelkarimnakkahi) 
 * [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/nakkahistudio) 
