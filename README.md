@@ -1,7 +1,7 @@
 Hi 👋, I’m **Abdelkarim Nakkahi**, I'm front end developer, focucing in building beautiful interfaces.</br>
-👀 I’m interested in ...
-🌱 I’m currently learning React.js
-💞️ I’m looking to collaborate on ...
+👀 I’m interested in ...</br>
+🌱 I’m currently learning React.js</br>
+💞️ I’m looking to collaborate on ...</br>
 📫 How to reach me ...
 
 <!---
