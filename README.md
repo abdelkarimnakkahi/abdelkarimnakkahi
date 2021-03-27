@@ -1,4 +1,4 @@
-Hi 👋, I’m **Abdelkarim Nakkahi**, I'm front end developer, focucing in building beautiful interfaces.</br>
+#Hi 👋, I’m Abdelkarim Nakkahi.</br>I'm front end developer, focusing on building beautiful interfaces.</br>
 👀 I’m interested in ...</br>
 🌱 I’m currently learning React.js</br>
 💞️ I’m looking to collaborate on ...</br>
