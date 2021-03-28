@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abdelkarim Nakkahi.</h1>
-<h3 align="center">front end developer, focusing on building beautiful interfaces.</h3>
+<h1>Hi 👋, I'm Abdelkarim Nakkahi.</h1>
+<h3>front end developer, focusing on building beautiful interfaces.</h3>
 
 - 🌱 I’m currently learning **React.js**
 
