@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.nakkahistudio.com](https://www.nakkahistudio.com)
 
-- 📫 How to reach me **nakkahi.abdelkarim@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
