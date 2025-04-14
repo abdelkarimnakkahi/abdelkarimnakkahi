@@ -21,7 +21,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelkarimnakkahi&show_icons=true&locale=en" alt="abdelkarimnakkahi" /></p>
 
-<!---# Hi 👋, I’m [Abdelkarim Nakkahi](http://linkedin.com/in/abdelkarimnakkahi).</br>
+<!---# Hi 👋, I’m [Abdelkarim](http://linkedin.com/in/abdelkarimnakkahi).</br>
 I'm front end developer, focusing on building beautiful interfaces.</br>
 :computer: My skill set: HTML, CSS and JavaScript</br>
 🌱 I’m currently learning React.js</br>
