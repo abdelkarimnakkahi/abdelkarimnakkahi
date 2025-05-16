@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://www.nakkahistudio.com](https://www.nakkahistudio.com)
+- 👨‍💻 All of my projects are available at [https://nakkahistudio.netlify.app/](https://nakkahistudio.netlify.app/)
 
 
 
