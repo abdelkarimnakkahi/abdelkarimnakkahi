@@ -1,4 +1,4 @@
-### Hi, I'm Abdelkarim 👋
+### Hi, I'm Abdelkarim Nakkahi 👋
 
 I'm a junior front-end developer based in Morocco with a diploma in Software Development and a passion for clean, responsive web applications.
 
