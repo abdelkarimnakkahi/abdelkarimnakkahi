@@ -1,5 +1,5 @@
 ### Hi, I'm Abdelkarim Nakkahi 👋
-<meta name="google-site-verification" content="TsjsFuQsoQh5rYJXCyDAYR1Q4jRCiQBvFp5VjBzgWgU" />
+
 I'm a junior front-end developer based in Morocco with a diploma in Software Development and a passion for clean, responsive web applications.
 
 🛠️ **Tech Stack:**  
@@ -12,3 +12,5 @@ HTML, CSS, JavaScript (ES6), Git & GitHub, Responsive Design, API Integration, R
 
 🎯 **Currently Learning:** ReactJS  
 📬 **Let’s connect!** [LinkedIn](https://www.linkedin.com/in/abdelkarimnakkahi)
+
+<meta name="google-site-verification" content="TsjsFuQsoQh5rYJXCyDAYR1Q4jRCiQBvFp5VjBzgWgU" />
