@@ -3,7 +3,7 @@
 I'm a junior front-end developer based in Morocco with a diploma in Software Development and a passion for clean, responsive web applications.
 
 🛠️ **Tech Stack:**  
-HTML, CSS, JavaScript (ES6), Git & GitHub, Responsive Design, API Integration, ReactJS (learning)
+HTML, CSS, JavaScript (ES6), Git & GitHub, Responsive Design, API Integration, React (learning)
 
 🔨 **Projects:**
 - 🔗 [Recipe Finder](https://therecipe.netlify.app) – Fetches meals via API and displays them with a dynamic, responsive layout.
