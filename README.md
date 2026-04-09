@@ -30,33 +30,18 @@
 ## 📂 Featured Projects
 Here are some of my projects:
 
-- 🔹 Project Name – Short description (what it does)
-- 🔹 Project Name – Short description
-- 🔹 Project Name – Short description
+- 🔹 [Recipe Finder](https://therecipe.netlify.app) – Fetches meals via API and displays them with a dynamic, responsive layout.
+- 🔹 [Brandigit](https://abdelkarimnakkahi.github.io/brandigit/) – A responsive landing page focused on layout and design.
+- 🔹 [Readit](https://abdelkarimnakkahi.github.io/readit/) – Text-to-speech app using the Web Speech API.
+- 🔹 [Task Manager](taskmanagrr.netlify.app/) – A small React app to add, edit, and delete tasks with React and localStorage.
 
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: [your link here]
+- LinkedIn: [https://www.linkedin.com/in/abdelkarimnakkahi/]
 
 ---
 
 ⭐ Always open to opportunities and collaborations!
-
-
-
-
-
-### Hi, I'm Abdelkarim Nakkahi 👋
-
-
-
-🔨 **Projects:**
-- 🔗 [Recipe Finder](https://therecipe.netlify.app) – Fetches meals via API and displays them with a dynamic, responsive layout.
-- 🔗 [Brandigit](https://abdelkarimnakkahi.github.io/brandigit/) – A responsive landing page focused on layout and design.
-- 🔗 [Readit](#) – Text-to-speech app using the Web Speech API.
-
-🎯 **Currently Learning:** ReactJS  
-📬 **Let’s connect!** [LinkedIn]()
 
 <meta name="google-site-verification" content="TsjsFuQsoQh5rYJXCyDAYR1Q4jRCiQBvFp5VjBzgWgU" />
