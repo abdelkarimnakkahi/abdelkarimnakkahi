@@ -38,7 +38,7 @@ Here are some of my projects:
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: [https://www.linkedin.com/in/abdelkarimnakkahi/]
+- LinkedIn: (https://www.linkedin.com/in/abdelkarimnakkahi/)
 
 ---
 
