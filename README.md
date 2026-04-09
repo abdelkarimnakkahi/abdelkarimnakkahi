@@ -33,12 +33,12 @@ Here are some of my projects:
 - 🔹 [Recipe Finder](https://therecipe.netlify.app) – Fetches meals via API and displays them with a dynamic, responsive layout.
 - 🔹 [Brandigit](https://abdelkarimnakkahi.github.io/brandigit/) – A responsive landing page focused on layout and design.
 - 🔹 [Readit](https://abdelkarimnakkahi.github.io/readit/) – Text-to-speech app using the Web Speech API.
-- 🔹 [Task Manager](taskmanagrr.netlify.app/) – A small React app to add, edit, and delete tasks with React and localStorage.
+- 🔹 [Task Manager](taskmanagrr.netlify.app/) – A small React app to add, edit, and delete tasks presisted with localStorage.
 
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: (https://www.linkedin.com/in/abdelkarimnakkahi/)
+- LinkedIn: https://www.linkedin.com/in/abdelkarimnakkahi/
 
 ---
 
