@@ -40,7 +40,7 @@ Here are some of my projects:
 ## Connect with Me
 - Portfolio: https://www.nakkahistudio.com/
 - LinkedIn: https://www.linkedin.com/in/abdelkarimnakkahi/
-- Twitter/X: https://x.com/nakkahistudio
+- Twitter/X: https://x.com/abdelkarimNa
 
 ---
 
