@@ -1,10 +1,10 @@
-# Hi, I'm Abdelkarim 👋
+# Hi, I'm Abdelkarim Nakkahi 👋
 
-💻 Frontend Developer passionate about building clean and responsive web interfaces.
+Frontend Developer passionate about building clean and responsive web interfaces.
 
 ---
 
-## 🚀 About Me
+## About Me
 - 🎓 Diploma in IT Development (2017)
 - 🔄 Currently transitioning into Frontend Development
 - 📚 Learning React and modern frontend tools
@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - HTML5, CSS3, JavaScript (ES6+)
 - Tailwind CSS
 - React (in progress)
@@ -20,14 +20,14 @@
 
 ---
 
-## 📌 Current Focus
+## Current Focus
 - Building real-world frontend projects
 - Improving JavaScript problem-solving skills
 - Learning React and component-based architecture
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 Here are some of my projects:
 
 - 🔹 [Recipe Finder](https://therecipe.netlify.app) – Fetches meals via API and displays them with a dynamic, responsive layout.
@@ -37,13 +37,13 @@ Here are some of my projects:
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 - Portfolio: https://www.nakkahistudio.com/
 - LinkedIn: https://www.linkedin.com/in/abdelkarimnakkahi/
 - Twitter/X: https://x.com/nakkahistudio
 
 ---
 
-⭐ Always open to opportunities and collaborations!
+Open to opportunities and collaborations!
 
 <meta name="google-site-verification" content="TsjsFuQsoQh5rYJXCyDAYR1Q4jRCiQBvFp5VjBzgWgU" />
