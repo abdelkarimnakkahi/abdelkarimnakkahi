@@ -30,10 +30,9 @@ Frontend Developer passionate about building clean and responsive web interfaces
 ## Featured Projects
 Here are some of my projects:
 
-- [Recipe Finder](https://therecipe.netlify.app) – Fetches meals via API and displays them with a dynamic, responsive layout.
 - [Brandigit](https://abdelkarimnakkahi.github.io/brandigit/) – A responsive landing page focused on layout and design.
 - [Readit](https://abdelkarimnakkahi.github.io/readit/) – Text-to-speech app using the Web Speech API.
-- [Task Manager](taskmanagrr.netlify.app/) – A small React app to add, edit, and delete tasks presisted with localStorage.
+- [Task Manager](https://taskmanagrr.netlify.app/) – A small React app to add, edit, and delete tasks presisted with localStorage.
 
 ---
 
