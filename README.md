@@ -5,17 +5,15 @@ Frontend Developer passionate about building clean and responsive web interfaces
 ---
 
 ## About Me
-- Diploma in IT Development (2017)
-- Currently transitioning into Frontend Development
-- Learning React and modern frontend tools
-- Strong in HTML, CSS, JavaScript
+
+Frontend developer transitioning into web development after 8 years running an independent retail business. Since 2026, built a self-taught foundation in HTML5, CSS3, JavaScript (ES6+), React and REST API through hands-on projects. Brings a fast-growing technical skill set together with proven client-facing communication, ownership, and problem-solving ability from managing a business end to end.
 
 ---
 
 ## Tech Stack
 - HTML5, CSS3, JavaScript (ES6+)
 - Tailwind CSS
-- React (in progress)
+- React
 - Git & GitHub
 
 ---
@@ -23,21 +21,22 @@ Frontend Developer passionate about building clean and responsive web interfaces
 ## Current Focus
 - Building real-world frontend projects
 - Improving JavaScript problem-solving skills
-- Learning React and component-based architecture
 
 ---
 
 ## Featured Projects
 Here are some of my projects:
 
-- [Brandigit](https://abdelkarimnakkahi.github.io/brandigit/) – A responsive landing page focused on layout and design.
-- [Readit](https://abdelkarimnakkahi.github.io/readit/) – Text-to-speech app using the Web Speech API.
-- [Task Manager](https://taskmanagrr.netlify.app/) – A small React app to add, edit, and delete tasks presisted with localStorage.
+- [Shopora]([https://shop-ora.netlify.app/](https://shop-ora.netlify.app/)) – A responsive e-commerce web application built with React and the DummyJSON REST API.
+- [Readit]([https://abdelkarimnakkahi.com/](https://abdelkarimnakkahi.com/)) – Portfolio site for Abdelkarim Nakkahi, a frontend developer, built with HTML, CSS, and JavaScript.
+
+.
+- [Task Manager]([https://taskmanagrr.netlify.app/](https://taskmanagrr.netlify.app/)) – A small React app to add, edit, and delete tasks presisted with localStorage.
 
 ---
 
 ## Connect with Me
-- Portfolio: https://www.nakkahistudio.com/
+- Portfolio: https://abdelkarimnakkahi.com/
 - LinkedIn: https://www.linkedin.com/in/abdelkarimnakkahi/
 - Twitter/X: https://x.com/abdelkarimNa
 
