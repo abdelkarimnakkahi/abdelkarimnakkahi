@@ -29,8 +29,6 @@ Here are some of my projects:
 
 - [Shopora](https://shop-ora.netlify.app/) – A responsive e-commerce web application built with React and the DummyJSON REST API.
 - [Readit](https://abdelkarimnakkahi.com/) – Portfolio site for Abdelkarim Nakkahi, a frontend developer, built with HTML, CSS, and JavaScript.
-
-.
 - [Task Manager](https://taskmanagrr.netlify.app/) – A small React app to add, edit, and delete tasks presisted with localStorage.
 
 ---
